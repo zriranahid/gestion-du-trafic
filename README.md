@@ -6,5 +6,5 @@ Notre objectif est d'installer des feux de signalisation tricolores aux deux ext
 
 
 
-Composants utilisés:
+## Composants utilisés:
 2boutons poussoirs (S1 et S2).  6LEDS (LED1 a LED6) .  6 résistances 470 Ohm (R1 a R6). 2capacités 100 nF(C1 et C2) . 2résistances de 10 kOhm(R7 et R8).
